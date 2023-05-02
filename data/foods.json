@@ -1,0 +1,152 @@
+[
+    {
+        "food_id": 1,
+        "foodName": "Beef Bhuna",
+        "chef_id": 1,
+        "chefName": "Tony Karim",
+        "chef_avatar": "https://i.ibb.co/VvdT2Cj/Tony-Karimjpeg.jpg",
+        "img_url": "https://i.ibb.co/dJC1Tf3/beef-Bhuna.jpg",
+        "rating": 4.5,
+        "description": "Beef Bhuna is a popular Bangladeshi dish made with tender chunks of beef cooked in a spicy tomato-based sauce. Khondoker Amir Uddin is a master chef in Bangladesh known for his skill in preparing traditional dishes like Beef Bhuna."
+    },
+    {
+        "food_id": 2,
+        "foodName": "Chingri Malai Curry",
+        "chef_id": 4,
+        "chefName": "Manik Miah",
+        "chef_avatar": "https://i.ibb.co/hmrbFqQ/manik-miah.jpg",
+        "img_url": "https://i.ibb.co/Q93WWTk/Chingri-Malai-Curry.jpg",
+        "rating": 4.2,
+        "description": "Chingri Malai Curry is a classic Bangladeshi dish that features jumbo prawns cooked in a rich and creamy coconut milk sauce. Nirob is a renowned Bangladeshi chef who is known for his expert use of spices and herbs in his cooking."
+    },
+    {
+        "food_id": 3,
+        "foodName": "Chicken Korma",
+        "chef_id": 2,
+        "chefName": "Ahmed Hossain",
+        "chef_avatar": "https://i.ibb.co/w7hWR3w/ahemed-hossain.jpg",
+        "img_url": "https://i.ibb.co/PGTc5Rf/Chicken-Korma.jpg",
+        "rating": 4.8,
+        "description": "Chicken Korma is a flavorful Bangladeshi dish that is made with succulent chicken pieces cooked in a creamy yogurt and spice-based sauce. Rahima Begum is a talented Bangladeshi chef who has perfected the art of cooking classic Bangladeshi dishes like Chicken Korma."
+    },
+    {
+        "food_id": 4,
+        "foodName": "Biriyani",
+        "chef_id": 1,
+        "chefName": "Tony Karim",
+        "chef_avatar": "https://i.ibb.co/VvdT2Cj/Tony-Karimjpeg.jpg",
+        "img_url": "https://i.ibb.co/gyPGpFL/Biriyani.jpg",
+        "rating": 4.6,
+        "description": "Biriyani is a classic Bangladeshi dish made with spiced rice and either chicken, beef, or fish. Tommy Miah is a renowned Bangladeshi chef who has popularized this dish in the UK, where he has been awarded an MBE for his contribution to the culinary industry."
+    },
+    {
+        "food_id": 5,
+        "foodName": "Fuchka",
+        "chef_id": 2,
+        "chefName": "Ahmed Hossain",
+        "chef_avatar": "https://i.ibb.co/w7hWR3w/ahemed-hossain.jpg",
+        "img_url": "https://i.ibb.co/tLXKcwc/Fuchka.jpg",
+        "rating": 4.8,
+        "description": "Fuchka is a popular street food in Bangladesh, consisting of small fried balls filled with spiced potato or chickpeas, served with a tamarind or mint chutney. Tahmina Islam is a talented Bangladeshi chef who has taken this humble street food and elevated it to a gourmet level with her own unique twist."
+    },
+    {
+        "food_id": 6,
+        "foodName": "Kacchi Biriyani",
+        "chef_id": 1,
+        "chefName": "Tony Karim",
+        "chef_avatar": "https://i.ibb.co/VvdT2Cj/Tony-Karimjpeg.jpg",
+        "img_url": "https://i.ibb.co/yBhH9HY/Kacchi-Biriyani.jpg",
+        "rating": 4.7,
+        "description": "Kacchi Biriyani is a traditional Bangladeshi dish made with spiced rice and marinated goat meat or beef that is slow-cooked in a sealed pot for hours. Shawkat Osman is a highly skilled Bangladeshi chef who has perfected the art of cooking this complex dish."
+    },
+    {
+        "food_id": 7,
+        "foodName": "Pitha",
+        "chef_id": 3,
+        "chefName": "Siddika Kabir",
+        "chef_avatar": "https://i.ibb.co/B2fJLTr/siddike-kabir.jpg",
+        "img_url": "https://i.ibb.co/ZhGZ7YC/Pitha.jpg",
+        "rating": 4.4,
+        "description": "Pitha is a type of sweet or savory cake that is popular in Bangladesh, especially during the winter months. Jhuma Akhtar is a skilled Bangladeshi chef who specializes in making a variety of pitha using traditional methods and ingredients."
+    },
+    {
+        "food_id": 8,
+        "foodName": "Dhokla",
+        "chef_id": 5,
+        "chefName": "Asad Lotif",
+        "chef_avatar": "https://i.ibb.co/mvVMbS5/asad-lotif.jpg",
+        "img_url": "https://i.ibb.co/tZnKBM5/Dhokla.jpg",
+        "rating": 4.1,
+        "description": "Dhokla is a popular snack in Bangladesh made from fermented batter made from rice and split chickpeas. Shanta Rahman is a Bangladeshi chef who specializes in making this dish using fresh ingredients and spices."
+    },
+    {
+        "food_id": 9,
+        "foodName": "Shorshe Ilish",
+        "chef_id": 3,
+        "chefName": "Siddika Kabir",
+        "chef_avatar": "https://i.ibb.co/B2fJLTr/siddike-kabir.jpg",
+        "img_url": "https://i.ibb.co/9Nw7d2d/Shorshe-Ilish.jpg",
+        "rating": 4.9,
+        "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish cooked in a mustard sauce. Mamun Chowdhury is a master chef in Bangladesh known for his expertise in cooking seafood dishes like Shorshe Ilish."
+    },
+    {
+        "food_id": 10,
+        "foodName": "Bhapa Pitha",
+        "chef_id": 5,
+        "chefName": "Asad Lotif",
+        "chef_avatar": "https://i.ibb.co/mvVMbS5/asad-lotif.jpg",
+        "img_url": "https://i.ibb.co/rk0kmsL/Bhapa-Pitha.jpg",
+        "rating": 4.2,
+        "description": "Bhapa Pitha is a popular sweet dish in Bangladesh made with rice flour and coconut, and steamed in banana leaves. Sharmin Rahman is a skilled Bangladeshi chef who has perfected the art of making this traditional dish, and adds her own unique twist with the addition of jaggery and cardamom."
+    },
+    {
+        "food_id": 11,
+        "foodName": "Chitol Maacher Muitha",
+        "chef_id": 3,
+        "chefName": "Siddika Kabir",
+        "chef_avatar": "https://i.ibb.co/B2fJLTr/siddike-kabir.jpg",
+        "img_url": "https://i.ibb.co/XyFN5Q0/Chitol-Maacher-Muitha.jpg",
+        "rating": 4.1,
+        "description": "Chitol Maacher Muitha is a popular Bangladeshi dish made with fish meatballs cooked in a spicy tomato and onion sauce. Farhana Haque is a talented Bangladeshi chef who has put her own unique twist on this traditional dish, adding a touch of sweetness with jaggery and raisins."
+    },
+    {
+        "food_id": 12,
+        "foodName": "Dhaka Biryani",
+        "chef_id": 5,
+        "chefName": "Asad Lotif",
+        "chef_avatar": "https://i.ibb.co/mvVMbS5/asad-lotif.jpg",
+        "img_url": "https://i.ibb.co/xKbVDBv/Dhaka-Biryani.jpg",
+        "rating": 4.7,
+        "description": "Dhaka Biryani is a famous Bangladeshi dish made with fragrant basmati rice, tender meat, and a blend of spices. Nazrul Islam is a renowned Bangladeshi chef who has perfected the art of making this delicious dish, using his secret blend of spices and cooking techniques passed down from generations."
+    },
+    {
+        "food_id": 13,
+        "foodName": "Shami Kebab",
+        "chef_id": 4,
+        "chefName": "Manik Miah",
+        "chef_avatar": "https://i.ibb.co/hmrbFqQ/manik-miah.jpg",
+        "img_url": "https://i.ibb.co/dMrDxXC/Shami-Kebab.jpg",
+        "rating": 4.3,
+        "description": "Shami Kebab is a popular Bangladeshi appetizer made with minced meat, lentils, and spices. Sadia Rahman is a skilled Bangladeshi chef who has taken this classic recipe and added her own unique twist with the addition of pomegranate seeds, giving the kebabs a tangy and fruity flavor."
+    },
+    {
+        "food_id": 14,
+        "foodName": "Jhal Muri",
+        "chef_id": 4,
+        "chefName": "Manik Miah",
+        "chef_avatar": "https://i.ibb.co/hmrbFqQ/manik-miah.jpg",
+        "img_url": "https://i.ibb.co/kXw6m6v/Jhal-Muri-1.jpg",
+        "rating": 4.5,
+        "description": "Jhal Muri is a spicy and crunchy snack made with puffed rice, vegetables, and a variety of spices. It's a popular street food in Bangladesh. Shahin Alam is a skilled chef who has elevated this humble snack with his own unique blend of spices and herbs."
+    },
+    {
+        "food_id": 15,
+        "foodName": "Patla Khichuri",
+        "chef_id": 2,
+        "chefName": "Ahmed Hossain",
+        "chef_avatar": "https://i.ibb.co/w7hWR3w/ahemed-hossain.jpg",
+        "img_url": "https://i.ibb.co/HgJrm2C/patla-khichuri-5413-reg.jpg",
+        "rating": 4.3,
+        "description": "Patla Khichuri is a popular comfort food in Bangladesh made with rice, lentils, and a variety of spices. Aminul Islam is a skilled Bangladeshi chef who has perfected this traditional dish with his own unique blend of spices and cooking techniques."
+    }
+]
