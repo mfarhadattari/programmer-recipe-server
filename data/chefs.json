@@ -1,27 +1,56 @@
 [
     {
         "chef_id": 1,
-        "chefName": "Tony Karim",
-        "chef_avatar": "https://i.ibb.co/VvdT2Cj/Tony-Karimjpeg.jpg"
+        "chefName": "Tony Khan",
+        "chef_avatar": "https://i.ibb.co/VvdT2Cj/Tony-Karimjpeg.jpg",
+        "about": "Culinary expert Tony khan is one of the most famous chefs in our country. In 1998, his fame peaked as he got enlisted as one of the top 10 chefs in the world. Prior to that, he gained the honour of a culinary expert of the year in Papua Niugini.In 2006, Tony joined Raddison Blu Water Garden and The Westin in 2009 two of the most premium hotels in Dhaka.Tony Khan formed his own culinary institute in 2015. There he provides international standard training for new chefs in the hotel industry. He guarantees the taste and ensures health benefits in his recipe.",
+        "experience": "15 years of experience.",
+        "likes": 12000,
+        "num_of_recipes": 50
     },
     {
         "chef_id": 2,
         "chefName": "Ahmed Hossain",
-        "chef_avatar": "https://i.ibb.co/w7hWR3w/ahemed-hossain.jpg"
+        "chef_avatar": "https://i.ibb.co/w7hWR3w/ahemed-hossain.jpg",
+        "about": "Ahmed Hossain, a top-ranked chef in our country, changed the taboo that cooking is only for females. He represented our country's traditional food in different cooking shows and recognised Bengali cuisine internationally.In 2006, he joined Dhaka Regency in the post of kitchen organiser. After working for 6 months, he became the main Chef there. His dedication to cooking inspired the young generation of our country. Most importantly, he will be remembered for inspiring this career mainstream in our country.",
+        "experience": "10 years of experience.",
+        "likes": 8000,
+        "num_of_recipes": 35
     },
     {
         "chef_id": 3,
         "chefName": "Siddika Kabir",
-        "chef_avatar": "https://i.ibb.co/B2fJLTr/siddike-kabir.jpg"
+        "chef_avatar": "https://i.ibb.co/B2fJLTr/siddike-kabir.jpg",
+        "about": "Siddiqua Kabir was a nutritionist, cooking book writer, cooking artist and a popular cooking show host. In 1965, she started her journey in the cooking field and began her cooking show on the then-Pakistani TV channel. She has authored many popular cooking-related books. In 2009 she got Sheltech Award from the culinary and media business. Before her death in 2012, she became one of the most eminent chefs in Bangladesh.",
+        "experience": "20 years of experience.",
+        "likes": 25000,
+        "num_of_recipes": 80
     },
     {
         "chef_id": 4,
         "chefName": "Manik Miah",
-        "chef_avatar": "https://i.ibb.co/hmrbFqQ/manik-miah.jpg"
+        "chef_avatar": "https://i.ibb.co/hmrbFqQ/manik-miah.jpg",
+        "about": "Manik Miah is well known as the king of spices. He is the chief culinary expert at Burbage's Windsor Tiffin eatery. He cooked in a competition, 'Curry Chef Of The Year, ' which the Bangladesh Caterers Association arranged. The competition was among 30 culinary specialists in the field of Northampton College. Manik Miah made some of the best Bengali dishes only in 45 minutes.",
+        "experience": "12 years of experience.",
+        "likes": 15000,
+        "num_of_recipes": 60
     },
     {
         "chef_id": 5,
         "chefName": "Asad Lotif",
-        "chef_avatar": "https://i.ibb.co/mvVMbS5/asad-lotif.jpg"
+        "chef_avatar": "https://i.ibb.co/mvVMbS5/asad-lotif.jpg",
+        "about": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies.",
+        "experience": "8 years of experience.",
+        "likes": 10000,
+        "num_of_recipes": 30
+    },
+    {
+        "chef_id": 6,
+        "chefName": "Feroze Khan",
+        "chef_avatar": "https://i.ibb.co/q7Jhgx2/ferox-khan.jpg",
+        "about": "Feroze Khan has worked as a culinary expert and main chef for many years. Now he has his own restaurant, Curry Garden. His Khan Fruit Carving, located in India, is popular worldwide.",
+        "experience": "5 years of experience.",
+        "likes": 5000,
+        "num_of_recipes": 20
     }
 ]
