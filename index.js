@@ -29,7 +29,7 @@ app.get("/chefs", (req, res) => {
 app.get("/chef/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const selectedFoods = foods.filter((food) => parseInt(food.chef_id) === id);
-  const selectedChef = chefs.filter((chef) => parseInt(chef.chef_id) === id);
+  const selectedChef = chefs.find((chef) => parseInt(chef.chef_id) === id);
   res.send({chefInfo: selectedChef , recipe : selectedFoods });
 });
 
