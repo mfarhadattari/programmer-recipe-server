@@ -3,7 +3,7 @@ var cors = require("cors");
 const app = express();
 const port = process.env.PORT || 5000;
 
-const foods = require("./data/foods.json");
+const recipes = require("./data/recipes.json");
 const chefs = require("./data/chefs.json");
 
 app.use(cors());
@@ -12,14 +12,16 @@ app.get("/", (req, res) => {
   res.send("Welcome to Programmer Recipe");
 });
 
-app.get("/foods", (req, res) => {
-  res.send(foods);
+app.get("/recipes", (req, res) => {
+  res.send(recipes);
 });
 
-app.get("/food/:id", (req, res) => {
+app.get("/recipe/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  const selectedFood = foods.find((food) => parseInt(food.food_id) === id);
-  res.send(selectedFood);
+  const selectedRecipe = recipes.find(
+    (recipe) => parseInt(recipe.food_id) === id
+  );
+  res.send(selectedRecipe);
 });
 
 app.get("/chefs", (req, res) => {
@@ -28,9 +30,15 @@ app.get("/chefs", (req, res) => {
 
 app.get("/chef/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  const selectedFoods = foods.filter((food) => parseInt(food.chef_id) === id);
+  const selectedRecipes = recipes.filter(
+    (recipe) => parseInt(recipe.chef_id) === id
+  );
   const selectedChef = chefs.find((chef) => parseInt(chef.chef_id) === id);
-  res.send({chefInfo: selectedChef , recipes : selectedFoods });
+  res.send({ chefInfo: selectedChef, recipes: selectedRecipes });
+});
+
+app.get("*", (req, res) => {
+  res.send("Page Not Found");
 });
 
 app.listen(port, () => {
