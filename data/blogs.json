@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "question": "Tell us the differences between uncontrolled and controlled components.",
+        "answer": "Difference between uncontrolled and controlled components is that uncontrolled components operate independently of external inputs, while controlled components have some mechanism for regulating their behavior in response to external inputs. Controlled components are more complex than uncontrolled components, as they require some form of control system to operate"
+    },
+    {
+        "id": 2,
+        "question": "How to validate React props using PropTypes?",
+        "answer": "PropTypes is a built-in library of React. It define data type and structure of the props which passed into component.  It validate props data type of component. It make easy to find bug and debug error."
+    },
+    {
+        "id": 3,
+        "question": "Tell us the difference between node js and express js?",
+        "answer": "Node js is a runtime environment for executing JavaScript on the server-side, while Express js is a web application framework built on top of Node js."
+    },
+    {
+        "id": 4,
+        "question": "What is a custom hook, and why will you create a custom hook?",
+        "answer": "The hook which created by developer are custom hook. Its a js function. It allow to developer to make code reuseable.The naming convention of hooks start with 'use' keyword. "
+    }
+]
